@@ -1,6 +1,6 @@
 import { multiply } from "../index.js";
 import { definePrime } from "../definePrime.js"
-import { getPercent } from "../percent.js"
+import { getPercent } from "../17-6-2_percent_function/percent.js"
 
 
 describe(
